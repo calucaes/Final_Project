@@ -1,0 +1,178 @@
+codigo_pais,pais,region_mundial,nivel_renta
+ABW,Aruba,Latin America & Caribbean,Renta alta
+AGO,Angola,Sub-Saharan Africa,Renta media-baja
+AIA,Desconocido,Desconocido,Desconocido
+ALB,Albania,Europe & Central Asia,Renta media-alta
+AND,Andorra,Europe & Central Asia,Renta alta
+ARE,United Arab Emirates,Middle East & North Africa,Renta alta
+ARG,Argentina,Latin America & Caribbean,Renta media-alta
+ARM,Armenia,Europe & Central Asia,Renta media-alta
+ASM,American Samoa,East Asia & Pacific,Renta alta
+ATA,Desconocido,Desconocido,Desconocido
+ATF,Desconocido,Desconocido,Desconocido
+AUS,Australia,East Asia & Pacific,Renta alta
+AUT,Austria,Europe & Central Asia,Renta alta
+AZE,Azerbaijan,Europe & Central Asia,Renta media-alta
+BDI,Burundi,Sub-Saharan Africa,Renta baja
+BEL,Belgium,Europe & Central Asia,Renta alta
+BEN,Benin,Sub-Saharan Africa,Renta media-baja
+BFA,Burkina Faso,Sub-Saharan Africa,Renta baja
+BGD,Bangladesh,South Asia,Renta media-baja
+BGR,Bulgaria,Europe & Central Asia,Renta alta
+BHR,Bahrain,Middle East & North Africa,Renta alta
+BHS,"Bahamas, The",Latin America & Caribbean,Renta alta
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Renta media-alta
+BLR,Belarus,Europe & Central Asia,Renta media-alta
+BOL,Bolivia,Latin America & Caribbean,Renta media-baja
+BRA,Brazil,Latin America & Caribbean,Renta media-alta
+BRB,Barbados,Latin America & Caribbean,Renta alta
+BWA,Botswana,Sub-Saharan Africa,Renta media-alta
+CAF,Central African Republic,Sub-Saharan Africa,Renta baja
+CHE,Switzerland,Europe & Central Asia,Renta alta
+CHL,Chile,Latin America & Caribbean,Renta alta
+CHN,China,East Asia & Pacific,Renta media-alta
+CIV,Côte d'Ivoire,Sub-Saharan Africa,Renta media-baja
+CMR,Cameroon,Sub-Saharan Africa,Renta media-baja
+COL,Colombia,Latin America & Caribbean,Renta media-alta
+COM,Comoros,Sub-Saharan Africa,Renta media-baja
+CPV,Cabo Verde,Sub-Saharan Africa,Renta media-alta
+CRI,Costa Rica,Latin America & Caribbean,Renta alta
+CUB,Cuba,Latin America & Caribbean,Renta media-alta
+CYM,Cayman Islands,Latin America & Caribbean,Renta alta
+CYP,Cyprus,Europe & Central Asia,Renta alta
+CZE,Czechia,Europe & Central Asia,Renta alta
+DEU,Germany,Europe & Central Asia,Renta alta
+DJI,Djibouti,Middle East & North Africa,Renta media-baja
+DMA,Dominica,Latin America & Caribbean,Renta media-alta
+DNK,Denmark,Europe & Central Asia,Renta alta
+DOM,Dominican Republic,Latin America & Caribbean,Renta media-alta
+DZA,Algeria,Middle East & North Africa,Renta media-alta
+Desconocido,Desconocido,Desconocido,Desconocido
+ECU,Ecuador,Latin America & Caribbean,Renta media-alta
+EGY,"Egypt, Arab Rep.",Middle East & North Africa,Renta media-baja
+ESP,Spain,Europe & Central Asia,Renta alta
+EST,Estonia,Europe & Central Asia,Renta alta
+ETH,Ethiopia,Sub-Saharan Africa,Renta baja
+FIN,Finland,Europe & Central Asia,Renta alta
+FJI,Fiji,East Asia & Pacific,Renta media-alta
+FRA,France,Europe & Central Asia,Renta alta
+FRO,Faroe Islands,Europe & Central Asia,Renta alta
+GAB,Gabon,Sub-Saharan Africa,Renta media-alta
+GBR,United Kingdom,Europe & Central Asia,Renta alta
+GEO,Georgia,Europe & Central Asia,Renta media-alta
+GGY,Desconocido,Desconocido,Desconocido
+GHA,Ghana,Sub-Saharan Africa,Renta media-baja
+GIB,Gibraltar,Europe & Central Asia,Renta alta
+GLP,Desconocido,Desconocido,Desconocido
+GNB,Guinea-Bissau,Sub-Saharan Africa,Renta baja
+GRC,Greece,Europe & Central Asia,Renta alta
+GTM,Guatemala,Latin America & Caribbean,Renta media-alta
+GUY,Guyana,Latin America & Caribbean,Renta alta
+HKG,"Hong Kong SAR, China",East Asia & Pacific,Renta alta
+HND,Honduras,Latin America & Caribbean,Renta media-baja
+HRV,Croatia,Europe & Central Asia,Renta alta
+HUN,Hungary,Europe & Central Asia,Renta alta
+IDN,Indonesia,East Asia & Pacific,Renta media-alta
+IMN,Isle of Man,Europe & Central Asia,Renta alta
+IND,India,South Asia,Renta media-baja
+IRL,Ireland,Europe & Central Asia,Renta alta
+IRN,"Iran, Islamic Rep.",Middle East & North Africa,Renta media-alta
+IRQ,Iraq,Middle East & North Africa,Renta media-alta
+ISL,Iceland,Europe & Central Asia,Renta alta
+ISR,Israel,Middle East & North Africa,Renta alta
+ITA,Italy,Europe & Central Asia,Renta alta
+JAM,Jamaica,Latin America & Caribbean,Renta media-alta
+JEY,Desconocido,Desconocido,Desconocido
+JOR,Jordan,Middle East & North Africa,Renta media-alta
+JPN,Japan,East Asia & Pacific,Renta alta
+KAZ,Kazakhstan,Europe & Central Asia,Renta media-alta
+KEN,Kenya,Sub-Saharan Africa,Renta media-baja
+KHM,Cambodia,East Asia & Pacific,Renta media-baja
+KIR,Kiribati,East Asia & Pacific,Renta media-baja
+KNA,St. Kitts and Nevis,Latin America & Caribbean,Renta alta
+KOR,"Korea, Rep.",East Asia & Pacific,Renta alta
+KWT,Kuwait,Middle East & North Africa,Renta alta
+LAO,Lao PDR,East Asia & Pacific,Renta media-baja
+LBN,Lebanon,Middle East & North Africa,Renta media-baja
+LBY,Libya,Middle East & North Africa,Renta media-alta
+LCA,St. Lucia,Latin America & Caribbean,Renta media-alta
+LIE,Liechtenstein,Europe & Central Asia,Renta alta
+LKA,Sri Lanka,South Asia,Renta media-alta
+LTU,Lithuania,Europe & Central Asia,Renta alta
+LUX,Luxembourg,Europe & Central Asia,Renta alta
+LVA,Latvia,Europe & Central Asia,Renta alta
+MAC,"Macao SAR, China",East Asia & Pacific,Renta alta
+MAR,Morocco,Middle East & North Africa,Renta media-baja
+MCO,Monaco,Europe & Central Asia,Renta alta
+MDG,Madagascar,Sub-Saharan Africa,Renta baja
+MDV,Maldives,South Asia,Renta media-alta
+MEX,Mexico,Latin America & Caribbean,Renta media-alta
+MKD,North Macedonia,Europe & Central Asia,Renta media-alta
+MLI,Mali,Sub-Saharan Africa,Renta baja
+MLT,Malta,Middle East & North Africa,Renta alta
+MMR,Myanmar,East Asia & Pacific,Renta media-baja
+MNE,Montenegro,Europe & Central Asia,Renta media-alta
+MOZ,Mozambique,Sub-Saharan Africa,Renta baja
+MRT,Mauritania,Sub-Saharan Africa,Renta media-baja
+MUS,Mauritius,Sub-Saharan Africa,Renta media-alta
+MWI,Malawi,Sub-Saharan Africa,Renta baja
+MYS,Malaysia,East Asia & Pacific,Renta media-alta
+MYT,Desconocido,Desconocido,Desconocido
+NAM,Namibia,Sub-Saharan Africa,Renta media-baja
+NCL,New Caledonia,East Asia & Pacific,Renta alta
+NGA,Nigeria,Sub-Saharan Africa,Renta media-baja
+NIC,Nicaragua,Latin America & Caribbean,Renta media-baja
+NLD,Netherlands,Europe & Central Asia,Renta alta
+NOR,Norway,Europe & Central Asia,Renta alta
+NPL,Nepal,South Asia,Renta media-baja
+NZL,New Zealand,East Asia & Pacific,Renta alta
+OMN,Oman,Middle East & North Africa,Renta alta
+PAK,Pakistan,Middle East & North Africa,Renta media-baja
+PAN,Panama,Latin America & Caribbean,Renta alta
+PER,Peru,Latin America & Caribbean,Renta media-alta
+PHL,Philippines,East Asia & Pacific,Renta media-alta
+PLW,Palau,East Asia & Pacific,Renta alta
+POL,Poland,Europe & Central Asia,Renta alta
+PRI,Puerto Rico (US),Latin America & Caribbean,Renta alta
+PRT,Portugal,Europe & Central Asia,Renta alta
+PRY,Paraguay,Latin America & Caribbean,Renta media-alta
+PYF,French Polynesia,East Asia & Pacific,Renta alta
+QAT,Qatar,Middle East & North Africa,Renta alta
+ROU,Romania,Europe & Central Asia,Renta alta
+RUS,Russian Federation,Europe & Central Asia,Renta alta
+RWA,Rwanda,Sub-Saharan Africa,Renta baja
+SAU,Saudi Arabia,Middle East & North Africa,Renta alta
+SDN,Sudan,Sub-Saharan Africa,Renta baja
+SEN,Senegal,Sub-Saharan Africa,Renta media-baja
+SGP,Singapore,East Asia & Pacific,Renta alta
+SLE,Sierra Leone,Sub-Saharan Africa,Renta baja
+SLV,El Salvador,Latin America & Caribbean,Renta media-alta
+SMR,San Marino,Europe & Central Asia,Renta alta
+SRB,Serbia,Europe & Central Asia,Renta media-alta
+STP,São Tomé and Principe,Sub-Saharan Africa,Renta media-baja
+SUR,Suriname,Latin America & Caribbean,Renta media-alta
+SVK,Slovak Republic,Europe & Central Asia,Renta alta
+SVN,Slovenia,Europe & Central Asia,Renta alta
+SWE,Sweden,Europe & Central Asia,Renta alta
+SYC,Seychelles,Sub-Saharan Africa,Renta alta
+SYR,Syrian Arab Republic,Middle East & North Africa,Renta baja
+TGO,Togo,Sub-Saharan Africa,Renta media-baja
+THA,Thailand,East Asia & Pacific,Renta media-alta
+TJK,Tajikistan,Europe & Central Asia,Renta media-baja
+TLS,Timor-Leste,East Asia & Pacific,Renta media-baja
+TUN,Tunisia,Middle East & North Africa,Renta media-baja
+TUR,Türkiye,Europe & Central Asia,Renta media-alta
+TWN,Desconocido,Desconocido,Desconocido
+TZA,Tanzania,Sub-Saharan Africa,Renta media-baja
+UGA,Uganda,Sub-Saharan Africa,Renta baja
+UKR,Ukraine,Europe & Central Asia,Renta media-alta
+UMI,Desconocido,Desconocido,Desconocido
+URY,Uruguay,Latin America & Caribbean,Renta alta
+USA,United States,North America,Renta alta
+UZB,Uzbekistan,Europe & Central Asia,Renta media-baja
+VEN,"Venezuela, RB",Latin America & Caribbean,Renta media-baja
+VGB,British Virgin Islands,Latin America & Caribbean,Renta alta
+VNM,Viet Nam,East Asia & Pacific,Renta media-alta
+ZAF,South Africa,Sub-Saharan Africa,Renta media-alta
+ZMB,Zambia,Sub-Saharan Africa,Renta media-baja
+ZWE,Zimbabwe,Sub-Saharan Africa,Renta media-baja
